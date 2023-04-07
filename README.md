@@ -1,11 +1,10 @@
 # Spellcaster-Academy
 Game for SugarLabs, magic based
 
-Game Title: "Spellcaster Academy"
-Storyline:
-In the mystical land of Mystic Gardens, young wizards must attend Spellcaster Academy to learn the ancient art of magic. The player takes on the role of a young wizard-in-training, who must complete various challenges to prove their magical prowess and earn their Spellcaster's Diploma.
+Story concept:<br>
+In the mystical land of Mystic Gardens, young wizards must attend Spellcaster Academy to learn the ancient art of magic. The player takes on the role of a young wizard-in-training, who must complete various challenges to prove their magical prowess and earn their Spellcaster's Diploma.<br><br>
 Gameplay Mechanics:
-Players will learn and cast spells using different combinations of buttons or keys.
+- Players will learn and cast spells using different combinations of buttons or keys.
 
 
 Educational Concepts:
