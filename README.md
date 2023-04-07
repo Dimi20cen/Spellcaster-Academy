@@ -31,3 +31,14 @@ Accessibility:
 
 Collaboration:
 - Add missions that can be done with the power of team-work
+
+
+
+Gui
+Locations:
+- Different background, sound and educational concept for each map, to achieve a unique mood and character ( increase variance -> less boredom)
+- Possible location:
+- Enchanted Forest -> learn about nature / respecting the environment
+- The Floating Isles ->
+- Mage's Tower ->  Learn about the concept gravity
+- Witch's Cottage -> Explore different animals
